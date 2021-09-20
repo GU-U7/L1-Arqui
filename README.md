@@ -8,8 +8,8 @@ Armamos y resolvemos el K-Map, asegurandonos que la última expersión hallada t
 
 ## Caso AB<CD (F2)
 Armamos y resolvemos el K-Map, asegurandonos que la última expersión hallada tenga la menor cantidad de operaciones posibles.
-<img src="problema3/kmap_ABmenorCD.PNG">
+<img src="problema3/kmap_ABmenorCD.png">
 
 ## Caso AB=CD (F1)
 Armamos y resolvemos el K-Map, asegurandonos que la última expersión hallada tenga la menor cantidad de operaciones posibles.
-<img src="problema3/kmap_ABigualCD.PNG">
+<img src="problema3/kmap_ABigualCD.png">
