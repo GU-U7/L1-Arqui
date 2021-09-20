@@ -1,6 +1,8 @@
 `include "mayor_2b2b.v"
 `include "menor_2b2b.v"
 `include "igual_2b2b.v"
+`include "ands.v"
+`include "ors.v"
 
 module comparator_2b2b_struc (
     input A, input B, input C, input D, output F1, output F2, output F3

@@ -1,4 +1,3 @@
-
 module mayor_2b2b_tb;
     reg a,b,c,d;
     wire o;

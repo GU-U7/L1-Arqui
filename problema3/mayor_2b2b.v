@@ -1,5 +1,7 @@
-`include "ands.v"
-`include "ors.v"
+/* `include "and_3.v"
+`include "and_4.v"
+`include "or_3.v"
+`include "or_4.v" */
 module mayor_2b2b (
     input A, input B, input C, input D, output out
 );
