@@ -17,6 +17,7 @@ Armamos y resolvemos el K-Map, asegurandonos que la última expersión hallada t
 Armamos y resolvemos el K-Map, asegurandonos que la última expersión hallada tenga la menor cantidad de operaciones posibles.
 <img src="problema3/kmap_ABigualCD.png">
 
-## Resolución estructural
+## Justificación problema 4
 
-Para cada expresion *Fn* debemos crear un módulo que evalúe los 4 bits ingresados. 
+Para resolver los mapas de Karnaugh formados a partir de las tablas presentadas, debemos aprovechar las casillas marcadas sin interés con el propóito de conseguir expresiones más cortas.
+
