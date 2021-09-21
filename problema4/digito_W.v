@@ -12,7 +12,7 @@ module digito_W (
     and w0f(w0[1], A, w0[0]);
 
     //Cablo w1 BCD
-    and w1i(w1[0]), C, D);
+    and w1i(w1[0], C, D);
     and w1f(w1[1], B, w1[0]);
 
     or sumaTotal(oW, w1[1], w0[1]);
