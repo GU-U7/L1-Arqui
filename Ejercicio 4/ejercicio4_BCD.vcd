@@ -1,0 +1,114 @@
+$date
+	Tue Sep 21 22:55:35 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module BCD_tb $end
+$var wire 1 ! oZ $end
+$var wire 1 " oY $end
+$var wire 1 # oX $end
+$var wire 1 $ oW $end
+$var reg 1 % A $end
+$var reg 1 & B $end
+$var reg 1 ' C $end
+$var reg 1 ( D $end
+$scope module testBCD $end
+$var wire 1 % in_A $end
+$var wire 1 & in_B $end
+$var wire 1 ' in_C $end
+$var wire 1 ( in_D $end
+$var wire 1 ! out_Z $end
+$var wire 1 " out_Y $end
+$var wire 1 # out_X $end
+$var wire 1 $ out_W $end
+$scope module dW $end
+$var wire 1 % A $end
+$var wire 1 & B $end
+$var wire 1 ' C $end
+$var wire 1 ( D $end
+$var wire 1 $ oW $end
+$upscope $end
+$scope module dX $end
+$var wire 1 % A $end
+$var wire 1 & B $end
+$var wire 1 ' C $end
+$var wire 1 ( D $end
+$var wire 1 # oX $end
+$upscope $end
+$scope module dY $end
+$var wire 1 % A $end
+$var wire 1 & B $end
+$var wire 1 ' C $end
+$var wire 1 ( D $end
+$var wire 1 " oY $end
+$upscope $end
+$scope module dZ $end
+$var wire 1 % A $end
+$var wire 1 & B $end
+$var wire 1 ' C $end
+$var wire 1 ( D $end
+$var wire 1 ! oZ $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+1!
+$end
+#2
+1"
+0!
+1(
+#4
+0#
+1!
+0(
+1'
+#6
+1#
+0"
+0!
+1(
+#8
+1#
+1!
+0(
+0'
+1&
+#10
+1"
+0!
+1(
+#12
+1!
+0(
+1'
+#14
+0#
+0"
+1$
+0!
+1(
+#16
+1!
+0(
+0'
+0&
+1%
+#18
+0$
+0!
+1(
+#19
